@@ -1,0 +1,2 @@
+Name: John, Family: Doe, Email: john.doe@example.com, Phone: 1234567890, Message: Hello! \n
+Name: عماد, Family: صحراکار, Email: rezardt313@gmaile.com, Phone: 09172955700, Message: سلام!! \n
